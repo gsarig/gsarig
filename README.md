@@ -15,7 +15,7 @@ A detailed checklist that will help you remember all the various tasks that need
 * [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
 * [Batch backup a server’s WordPress databases with WP-CLI](https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/) 
 
- :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>
+ :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
 
 
 ### Find me
