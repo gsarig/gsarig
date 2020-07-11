@@ -12,9 +12,7 @@ A simple generator which allows you to batch convert JavaScript and CSS assets t
 A detailed checklist that will help you remember all the various tasks that need to be done before going live. | 
 
 ### Posts
-<div style='display:flex;flex-flow:wrap;'><a href="https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/"><img height="150" src="https://www.gsarigiannidis.gr/wp-content/uploads/2020/06/person-holding-midnight-black-samsung-galaxy-s8-turn-on-near-1092671-370x230.jpg"><br> How to display a custom Instagram feed on WordPress after June 2020</a><a href="https://www.gsarigiannidis.gr/gravity-forms-native-repeater/"><img height="150" src="https://www.gsarigiannidis.gr/wp-content/uploads/2018/12/gravity-forms-370x230.jpg"><br> Refactoring the Gravity Forms native repeater field</a><a href="https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/"><img height="150" src="https://www.gsarigiannidis.gr/wp-content/uploads/2018/09/computer-desk-doctor-48604.jpg"><br> 10 steps to clean-up a hacked WordPress site</a><a href="https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/"><img height="150" src="https://www.gsarigiannidis.gr/wp-content/uploads/2018/09/ai-codes-coding-97077.jpg"><br> Batch backup a server’s WordPress databases with WP-CLI</a></div>
 
-<a href="https://www.gsarigiannidis.gr/blog/">Read More</a>
 
 
 
