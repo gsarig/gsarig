@@ -1,4 +1,4 @@
-I hold a Masters degree in Cultural Policy, Management and Communication and a Bachelors degree in Communication, Media and Culture, both from Panteion University of Athens, Greece.
+Hi, I'm Giorgos. I hold a Masters degree in Cultural Policy, Management and Communication and a Bachelors degree in Communication, Media and Culture, both from Panteion University of Athens, Greece.
 
 After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I shifted almost exclusively on developing websites and themes in WordPress.
 
