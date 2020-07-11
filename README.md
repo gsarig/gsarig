@@ -14,6 +14,7 @@ A detailed checklist that will help you remember all the various tasks that need
 * [Refactoring the Gravity Forms native repeater field](https://www.gsarigiannidis.gr/gravity-forms-native-repeater/) 
 * [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
 * [Batch backup a server’s WordPress databases with WP-CLI](https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/) 
+* [Adding a DIV wrapper to Gutenberg’s Classic block](https://www.gsarigiannidis.gr/adding-a-div-wrapper-to-gutenberg-s-classic-block/) 
 
  :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
 
