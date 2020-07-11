@@ -3,4 +3,4 @@ I am a freelance consultant from Greece, specialized in WordPress development an
 After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I shifted almost exclusively on developing websites, themes and plugins in WordPress.
 
 
-[<img width="40" height="40" src="https://github.com/gsarig/gsarig/images/wordpress.svg">](https://profiles.wordpress.org/gsarig)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/wordpress.svg">](https://profiles.wordpress.org/gsarig)
