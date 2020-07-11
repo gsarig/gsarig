@@ -3,17 +3,19 @@ I am a freelance consultant from Greece, specialized in WordPress development an
 After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I shifted almost exclusively on developing websites, themes and plugins in WordPress.
 
 #### Tools
-[Assets to enqueues Converter](https://www.gsarigiannidis.gr/convert-html-assets-wordpress-enqueues/) 
+[Assets to enqueues Converter](https://www.gsarigiannidis.gr/convert-html-assets-wordpress-enqueues/) <br>
+A simple generator which allows you to batch convert JavaScript and CSS assets to proper WordPress enqueues.
 
-A simple generator which allows you to batch convert JavaScript and CSS assets to proper WordPress enqueues. | test
-
-[Deployment checklist for WordPress sites](https://www.gsarigiannidis.gr/deployment-checklist-for-wordpress-sites/) 
-
-A detailed checklist that will help you remember all the various tasks that need to be done before going live. | 
+[Deployment checklist for WordPress sites](https://www.gsarigiannidis.gr/deployment-checklist-for-wordpress-sites/) <br>
+A detailed checklist that will help you remember all the various tasks that need to be done before going live.
 
 ### Posts
+* [How to display a custom Instagram feed on WordPress after June 2020](https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/) 
+* [Refactoring the Gravity Forms native repeater field](https://www.gsarigiannidis.gr/gravity-forms-native-repeater/) 
+* [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
+* [Batch backup a server’s WordPress databases with WP-CLI](https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/) 
 
-
+ :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>
 
 
 ### Find me
