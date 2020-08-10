@@ -2,7 +2,7 @@ Hi, I'm Giorgos. I hold a Masters degree in Cultural Policy, Management and Comm
 
 After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I shifted almost exclusively on developing websites and themes in WordPress.
 
-#### Tools
+### Tools
 [Assets to enqueues Converter](https://www.gsarigiannidis.gr/convert-html-assets-wordpress-enqueues/) <br>
 A simple generator which allows you to batch convert JavaScript and CSS assets to proper WordPress enqueues.
 
@@ -17,6 +17,9 @@ A detailed checklist that will help you remember all the various tasks that need
 * [Adding a DIV wrapper to Gutenberg’s Classic block](https://www.gsarigiannidis.gr/adding-a-div-wrapper-to-gutenberg-s-classic-block/) 
 
  :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
+
+### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsarig&show_icons=true&count_private=true" align="center" /></div>  
 
 
 ### Find me
