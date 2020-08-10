@@ -19,7 +19,7 @@ A detailed checklist that will help you remember all the various tasks that need
  :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gsarig&show_icons=true&count_private=true" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=gsarig&show_icons=true&count_private=true" align="center" /></div>  
 
 
 ### Find me
