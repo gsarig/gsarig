@@ -13,6 +13,8 @@ A detailed checklist that will help you remember all the various tasks that need
 * [How to display a custom Instagram feed on WordPress after June 2020](https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/) 
 * [Refactoring the Gravity Forms native repeater field](https://www.gsarigiannidis.gr/gravity-forms-native-repeater/) 
 * [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
+* [How to use a Gutenberg block as a post’s featured content](https://www.gsarigiannidis.gr/wordpress-gutenberg-block-featured-content/)
+* [Escaping the CSS Framework](https://www.gsarigiannidis.gr/escaping-the-css-framework/)
 * [Batch backup a server’s WordPress databases with WP-CLI](https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/) 
 * [Adding a DIV wrapper to Gutenberg’s Classic block](https://www.gsarigiannidis.gr/adding-a-div-wrapper-to-gutenberg-s-classic-block/) 
 
