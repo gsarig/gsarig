@@ -10,6 +10,7 @@ A simple generator which allows you to batch convert JavaScript and CSS assets t
 A detailed checklist that will help you remember all the various tasks that need to be done before going live.
 
 ### Posts
+* [Building an OpenStreetMap Gutenberg block and rethinking the UX of adding locations](https://www.gsarigiannidis.gr/wordpress-gutenberg-map-block-openstreetmap/)
 * [How to display a custom Instagram feed on WordPress after June 2020](https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/) 
 * [Refactoring the Gravity Forms native repeater field](https://www.gsarigiannidis.gr/gravity-forms-native-repeater/) 
 * [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
