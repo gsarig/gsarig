@@ -13,12 +13,13 @@ A detailed checklist that will help you remember all the various tasks that need
 * [Building an OpenStreetMap Gutenberg block and rethinking the UX of adding locations](https://www.gsarigiannidis.gr/wordpress-gutenberg-map-block-openstreetmap/)
 * [How to display a custom Instagram feed on WordPress after June 2020](https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/) 
 * [The challenges of building a user-friendly place search for OpenStreetMap](https://www.gsarigiannidis.gr/openstreetmap-place-search/) 
+* [Tabs on desktop, accordion on mobile](https://www.gsarigiannidis.gr/tabs-on-desktop-accordion-on-mobile/) 
 * [Refactoring the Gravity Forms native repeater field](https://www.gsarigiannidis.gr/gravity-forms-native-repeater/) 
 * [10 steps to clean-up a hacked WordPress site](https://www.gsarigiannidis.gr/10-steps-to-clean-up-a-hacked-wordpress-site/) 
+* [Maintain aspect ratio on elements with unknown heights and contents](https://www.gsarigiannidis.gr/maintain-aspect-ratio-on-elements-with-unknown-heights-and-contents/) 
 * [How to use a Gutenberg block as a post’s featured content](https://www.gsarigiannidis.gr/wordpress-gutenberg-block-featured-content/)
 * [Escaping the CSS Framework](https://www.gsarigiannidis.gr/escaping-the-css-framework/)
 * [Batch backup a server’s WordPress databases with WP-CLI](https://www.gsarigiannidis.gr/wp-cli-batch-backup-wordpress-databases/) 
-* [Adding a DIV wrapper to Gutenberg’s Classic block](https://www.gsarigiannidis.gr/adding-a-div-wrapper-to-gutenberg-s-classic-block/) 
 
  :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
 
