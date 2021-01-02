@@ -10,6 +10,8 @@ A simple generator which allows you to batch convert JavaScript and CSS assets t
 A detailed checklist that will help you remember all the various tasks that need to be done before going live.
 
 ### Posts
+* [Practical tips and best practices on writing for the Web](https://www.gsarigiannidis.gr/practical-tips-on-writing-for-the-web/)
+* [Gutenberg tips to forget the Classic Editor](https://www.gsarigiannidis.gr/gutenberg-tips-to-forget-the-classic-editor/)  
 * [Building an OpenStreetMap Gutenberg block and rethinking the UX of adding locations](https://www.gsarigiannidis.gr/wordpress-gutenberg-map-block-openstreetmap/)
 * [How to display a custom Instagram feed on WordPress after June 2020](https://www.gsarigiannidis.gr/instagram-feed-api-after-june-2020/) 
 * [The challenges of building a user-friendly place search for OpenStreetMap](https://www.gsarigiannidis.gr/openstreetmap-place-search/) 
