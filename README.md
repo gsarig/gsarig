@@ -1,6 +1,6 @@
 Hi, I'm Giorgos. I hold a Masters degree in Cultural Policy, Management and Communication and a Bachelors degree in Communication, Media and Culture, both from Panteion University of Athens, Greece.
 
-After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I turned almost exclusively to programming (self-taught, don't ask how, I'm not sure I have a short answer to that), and I mostly develop websites, themes and plugins for WordPress.
+After working for a while as a journalist, I became a consultant specialized in Information Architecture of websites, portals and web applications. Over the last few years I turned exclusively to programming (self-taught, don't ask how, I'm not sure I have a short answer to that), and I mostly develop websites, themes and plugins for WordPress.
 
 ### Tools
 [Assets to enqueues Converter](https://www.gsarigiannidis.gr/convert-html-assets-wordpress-enqueues/) <br>
