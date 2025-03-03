@@ -36,3 +36,4 @@ A detailed checklist that will help you remember all the various tasks that need
 [<img width="32" height="32" title="LinkedIn" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/linkedin.svg">](https://www.linkedin.com/in/gsarigiannidis/) &nbsp;
 [<img width="32" height="32" title="Twitter" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/twitter.svg">](https://twitter.com/gsarig) &nbsp;
 [<img width="32" height="32" title="Facebook" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/facebook.svg">](https://www.facebook.com/sarigiannidis)
+[<img width="34" height="34" title="Kindle" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/kindle.svg">](https://www.amazon.com/stores/Giorgos-Sarigiannidis/author/B01KS7D90W?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
