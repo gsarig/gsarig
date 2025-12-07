@@ -26,8 +26,7 @@ A detailed checklist that will help you remember all the various tasks that need
  :point_right: <a href="https://www.gsarigiannidis.gr/blog/">Read More</a>  :point_left:
 
 ### Github Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=gsarig&show_icons=true&count_private=true" align="center" /></div>  
-
+![GitHub Card](https://githubcard.com/gsarig.svg?d=MMTLQUqL)
 
 ### Find me
 [<img width="32" title="My Website" height="32" src="https://raw.githubusercontent.com/gsarig/gsarig/master/images/website.svg">](https://www.gsarigiannidis.gr/) &nbsp;
