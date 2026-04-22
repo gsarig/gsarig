@@ -10,6 +10,7 @@ A simple generator which allows you to batch convert JavaScript and CSS assets t
 A detailed checklist that will help you remember all the various tasks that need to be done before going live.
 
 ### Posts
+* [In search of (Claude's) Lost Time - An experiment in globalizing Claude's project memories](https://www.gsarigiannidis.gr/claude-global-memory/)
 * [Experimenting with AI-Assisted Block Composition in WordPress 7.0](https://www.gsarigiannidis.gr/kratt-ai-assisted-block-composition-in-wordpress/)
 * [Using AI as a co-maintainer for a solo WordPress plugin](https://www.gsarigiannidis.gr/using-ai-as-a-co-maintainer-for-a-solo-wordpress-plugin/)
 * [The alien on the rooftop: The Engineer’s (dis)advantage in an AI world](https://www.gsarigiannidis.gr/the-alien-on-the-rooftop-the-engineers-disadvantage-in-an-ai-world/)
